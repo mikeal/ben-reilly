@@ -1,0 +1,26 @@
+{
+  "name": "ben-reilly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index-node.js",
+  "browser": "index-browser.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "hundreds aegir test -t node browser",
+    "lint": "aegir lint",
+    "pretest": "npm run lint"
+  },
+  "keywords": [],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
+  "license": "(Apache-2.0 AND MIT)",
+  "dependencies": {
+    "realistic-structured-clone": "^2.0.2"
+  },
+  "devDependencies": {
+    "aegir": "^20.2.0",
+    "hundreds": "0.0.2",
+    "tsame": "^2.0.1"
+  }
+}
