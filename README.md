@@ -1,6 +1,6 @@
 # ben-reilly
 
-![75167](https://img.shields.io/badge/compiled%20bundle-75k-yellowgreen) ![20222](https://img.shields.io/badge/gzipped%20bundle-20k-yellowgreen)
+![39882](https://img.shields.io/badge/compiled%20bundle-40k-yellowgreen) ![9318](https://img.shields.io/badge/gzipped%20bundle-9k-green)
 
 Deep clone utility, optimal code paths for Node.js and Browsers
 
