@@ -16,7 +16,7 @@
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
   "license": "(Apache-2.0 AND MIT)",
   "dependencies": {
-    "realistic-structured-clone": "^2.0.2"
+    "@mikeal/realistic-structured-clone": "^3.0.1"
   },
   "devDependencies": {
     "aegir": "^20.2.0",

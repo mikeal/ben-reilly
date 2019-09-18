@@ -1,2 +1,2 @@
 'use strict'
-module.exports = require('realistic-structured-clone')
+module.exports = require('@mikeal/realistic-structured-clone')
